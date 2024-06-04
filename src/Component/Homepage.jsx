@@ -85,7 +85,7 @@ const Homepage = () => {
             </div>
 
             {/* Second */}
-            <img src={Star10} alt="" style={{height:"50px",marginTop:"250px",marginLeft:"2%"}}/>
+            <img  src={Star10} alt="" style={{height:"50px",marginTop:"250px",marginLeft:"6%"}}/>
 
             <div className='Homepage_second'>
                 {/* images */}
@@ -105,7 +105,7 @@ const Homepage = () => {
                     <p>Uifry Premium</p>
                     <div className='HS-text1'>
                         <div>
-                            <img src={star} alt="" />
+                            <img  src={star} alt="" />
                         </div>
                         <p>Budgeting Intervals</p>
                         <p>Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet Faucibus Tincidunt Eu Adipiscing Sociis Arcu Lorem Porttitor.</p>
@@ -129,7 +129,7 @@ const Homepage = () => {
             </div>
 
             {/* third */}
-            <img src={Star8} alt="" style={{height:"50px",marginTop:"-200px",marginLeft:"95%"}}/>
+            <img src={Star8} alt="" style={{height:"50px",marginTop:"-200px",marginLeft:"85%"}}/>
 
             <div className='Homepage_third'>
 

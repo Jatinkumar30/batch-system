@@ -219,6 +219,7 @@
     color: red;
 }
 
+
 .Homepage_second-text>p:nth-child(2) {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 48px;
@@ -320,11 +321,14 @@
 }
 
 
+
 /* third section */
+
 
 .Homepage_third {
     margin-top: 0px;
     display: flex;
+    margin-left: 5rem;
 }
 
 .Homepage_third-text {
@@ -417,6 +421,7 @@
 .Homepage_forth {
     display: flex;
     margin-top: -100px;
+    margin-left: 5rem;
 }
 
 
@@ -469,6 +474,7 @@
 /* fifth */
 .Homepage_fifth {
     margin-top: 10px;
+    margin-left: 7rem;
 }
 
 .Homepage_fifth>p:nth-child(1) {
